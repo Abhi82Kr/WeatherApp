@@ -8,8 +8,11 @@ The app is built using Retrofit for efficient API calls and data handling, ensur
 Key Features:
 
   City-based Weather Search: Enter the name of any city to view its current weather conditions.
+  
   Real-time Data: Get the latest weather information, updated in real-time from WeatherAPI.com.
+  
   Detailed Weather Information: Displays temperature, wind speed, humidity, and more.
+  
   Optimized API Integration: Efficient use of Retrofit for seamless API requests and response handling.
 
   https://github.com/user-attachments/assets/1706901d-8b6a-4b2b-b3f8-d8d14373956f
